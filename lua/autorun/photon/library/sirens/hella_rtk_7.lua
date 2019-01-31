@@ -22,4 +22,4 @@ local siren = {
 	},
 	Horn = "emv/horns/emv_standard.wav"
 }
-EMVU.AddCustomSiren("hella_rtk_7_de", siren)
+EMVU.AddCustomSiren("creator_hella_rtk_7_de", siren)
