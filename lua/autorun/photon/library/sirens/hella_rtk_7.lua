@@ -3,7 +3,7 @@ if not EMVU then return end
 local siren = {
 	Name = "Deutsch",
 	Category = "Hella RTK 7",
-	Set = { -- The actual sirens.
+	Set = {
 		{
 			Name = "STADT",
 			Sound = "emv/sirens/hella rtk 7/de_stadt.wav",
