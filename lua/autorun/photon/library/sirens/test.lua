@@ -7,7 +7,17 @@ local siren = {
 		{
 			Name = "WAIL", -- Short name to display on HUD.
 			Sound = "emv/sirens/example/example.wav", -- Sound path.
-			Icon = "wail" -- Icon to show on the HUD. One of wail, yelp, phaser, hilo.
+			Icon = "xmas" -- Icon to show on the HUD. One of wail, yelp, phaser, hilo.
+		},
+		{
+			Name = "WAIL", -- Short name to display on HUD.
+			Sound = "emv/sirens/example/example.wav", -- Sound path.
+			Icon = "volume" -- Icon to show on the HUD. One of wail, yelp, phaser, hilo.
+		},
+		{
+			Name = "WAIL", -- Short name to display on HUD.
+			Sound = "emv/sirens/example/example.wav", -- Sound path.
+			Icon = "volume-mute" -- Icon to show on the HUD. One of wail, yelp, phaser, hilo.
 		}
 	},
 	Horn = "emv/sirens/example/horn.wav" -- Path to the horn.
