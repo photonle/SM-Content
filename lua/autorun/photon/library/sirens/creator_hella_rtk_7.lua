@@ -6,20 +6,20 @@ local siren = {
 	Set = {
 		{
 			Name = "STADT",
-			Sound = "emv/sirens/hella rtk 7/de_stadt.wav",
+			Sound = "emv/sirens/Hella RTK 7/de_stadt.wav",
 			Icon = "hilo"
 		},
 		{
 			Name = "LAND",
-			Sound = "emv/sirens/hella rtk 7/de_land.wav",
+			Sound = "emv/sirens/Hella RTK 7/de_land.wav",
 			Icon = "hilo"
 		},
 		{
 			Name = "KOMP",
-			Sound = "emv/sirens/hella rtk 7/de_kompressorhorn.wav",
+			Sound = "emv/sirens/Hella RTK 7/de_kompressorhorn.wav",
 			Icon = "hilo"
 		}
 	},
-	Horn = "emv/horns/emv_standard.wav"
+	Horn = "emv/sirens/Hella RTK 7/horn.wav"
 }
 EMVU.AddCustomSiren("creator_hella_rtk_7_de", siren)
