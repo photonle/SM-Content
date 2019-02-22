@@ -21,7 +21,8 @@ EMVU.AddCustomSiren("creator_hella_rtk_7_de", {
 			Icon = "hilo"
 		}
 	},
-	Horn = "emv/sirens/Hella RTK 7/horn.wav"
+	Horn = "emv/sirens/Hella RTK 7/horn.wav",
+	Volume = 100
 })
 
 -- US Siren
@@ -45,7 +46,8 @@ EMVU.AddCustomSiren("creator_hella_rtk_7_us", {
 			Icon = "hilo"
 		}
 	},
-	Horn = "emv/sirens/Hella RTK 7/horn.wav"
+	Horn = "emv/sirens/Hella RTK 7/horn.wav",
+	Volume = 100
 })
 
 -- French Siren
@@ -59,7 +61,8 @@ EMVU.AddCustomSiren("creator_hella_rtk_7_fr_police", {
 			Icon = "hilo"
 		},
 	},
-	Horn = "emv/sirens/Hella RTK 7/horn.wav"
+	Horn = "emv/sirens/Hella RTK 7/horn.wav",
+	Volume = 100
 })
 
 EMVU.AddCustomSiren("creator_hella_rtk_7_fr_gendarmerie", {
@@ -72,7 +75,8 @@ EMVU.AddCustomSiren("creator_hella_rtk_7_fr_gendarmerie", {
 			Icon = "hilo"
 		},
 	},
-	Horn = "emv/sirens/Hella RTK 7/horn.wav"
+	Horn = "emv/sirens/Hella RTK 7/horn.wav",
+	Volume = 100
 })
 
 EMVU.AddCustomSiren("creator_hella_rtk_7_fr_firefighter", {
@@ -85,7 +89,8 @@ EMVU.AddCustomSiren("creator_hella_rtk_7_fr_firefighter", {
 			Icon = "hilo"
 		},
 	},
-	Horn = "emv/sirens/Hella RTK 7/horn.wav"
+	Horn = "emv/sirens/Hella RTK 7/horn.wav",
+	Volume = 100
 })
 
 EMVU.AddCustomSiren("creator_hella_rtk_7_fr_ambulance", {
@@ -98,7 +103,8 @@ EMVU.AddCustomSiren("creator_hella_rtk_7_fr_ambulance", {
 			Icon = "hilo"
 		},
 	},
-	Horn = "emv/sirens/Hella RTK 7/horn.wav"
+	Horn = "emv/sirens/Hella RTK 7/horn.wav",
+	Volume = 100
 })
 
 -- Italian Siren
@@ -112,7 +118,8 @@ EMVU.AddCustomSiren("creator_hella_rtk_7_it_police", {
 			Icon = "hilo"
 		},
 	},
-	Horn = "emv/sirens/Hella RTK 7/horn.wav"
+	Horn = "emv/sirens/Hella RTK 7/horn.wav",
+	Volume = 100
 })
 
 EMVU.AddCustomSiren("creator_hella_rtk_7_it_firefighter", {
@@ -125,7 +132,8 @@ EMVU.AddCustomSiren("creator_hella_rtk_7_it_firefighter", {
 			Icon = "hilo"
 		},
 	},
-	Horn = "emv/sirens/Hella RTK 7/horn.wav"
+	Horn = "emv/sirens/Hella RTK 7/horn.wav",
+	Volume = 100
 })
 
 -- Dutch Siren
@@ -139,5 +147,6 @@ EMVU.AddCustomSiren("creator_hella_rtk_7_nl_twotone", {
 			Icon = "hilo"
 		},
 	},
-	Horn = "emv/sirens/Hella RTK 7/horn.wav"
+	Horn = "emv/sirens/Hella RTK 7/horn.wav",
+	Volume = 100
 })
