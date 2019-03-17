@@ -1,5 +1,5 @@
 # Additional-Content
-Additional photon content, siren, models and components, made by Photon team members.
+Additional photon content made by Super Mighty
 
 ## Contributing
 
@@ -14,7 +14,3 @@ Master contains code which is either live, or being packed for live.
 Development contains code which should be ready for live, but hasn't been validated or merged.
 
 feature/ and fix/ braches contain code under development.
-
-## Credits
-
-Christmas Cracker icon provided by Made, AU, from thenounproject.com.
